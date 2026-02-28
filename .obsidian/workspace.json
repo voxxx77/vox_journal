@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026.2.28.md",
+                "file": "2026_2/2026.2.28.md",
                 "mode": "source",
                 "source": false
               },
@@ -181,9 +181,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8b7e71049ece3f0d",
+  "active": "61f462a47ce5a7d3",
   "lastOpenFiles": [
-    "2026.2.28.md",
+    "2026_2",
+    "2026_2/2026.2.28.md",
     "2026-02-28.md",
     "∂.canvas",
     "欢迎.md"
